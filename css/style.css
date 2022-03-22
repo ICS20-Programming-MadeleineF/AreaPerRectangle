@@ -1,0 +1,24 @@
+body{
+  background-color:#4B0082;
+}
+h1{
+  text-align:center;
+  color:rgb(230, 230, 250);
+  background-color:rgb(138, 43, 226);
+}
+p{
+  text-align:center;
+  color:mintcream;
+}
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  background-color:rgb(138, 43, 226);
+  color:rgb(240, 248, 255);
+}
+div{
+  text-align:center;
+  color:mintcream;
+}
